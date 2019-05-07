@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadDB", "DownLoadDB\DownLoadDB.csproj", "{64597C3B-7415-4E1E-919C-3E41F310697F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64597C3B-7415-4E1E-919C-3E41F310697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64597C3B-7415-4E1E-919C-3E41F310697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64597C3B-7415-4E1E-919C-3E41F310697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64597C3B-7415-4E1E-919C-3E41F310697F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44BCBA29-66FE-4E6C-88F2-2A605EC51C0C}
+	EndGlobalSection
+EndGlobal
